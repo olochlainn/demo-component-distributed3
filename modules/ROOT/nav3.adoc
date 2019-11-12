@@ -1,1 +1,1 @@
-Nav file
+* xref:siren-widgets.adoc[Siren Widgets]
