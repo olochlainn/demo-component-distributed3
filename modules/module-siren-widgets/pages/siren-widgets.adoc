@@ -1,7 +1,0 @@
-= Siren Widgets
-
-== Placeholder content to test inclusion in main nav at sub-module level
-
-Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.
-
-Odio morbi quis commodo odio aenean. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Turpis cursus in hac habitasse platea. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Euismod nisi porta lorem mollis aliquam ut porttitor leo a. Nisl pretium fusce id velit ut tortor pretium.
